@@ -6,3 +6,4 @@ requests
 pyopenssl
 pandas
 plotly
+openpyxl
